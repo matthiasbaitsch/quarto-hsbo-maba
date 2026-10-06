@@ -1,0 +1,20 @@
+---
+title: Beispielseite
+subtitle: Test der Extension hsbo-maba
+author: Matthias Baitsch
+format: hsbo-maba-html
+---
+
+## Abschnitt
+
+Ein Absatz mit Text.
+
+### Unterabschnitt
+
+```csharp
+Console.WriteLine("Hallo");
+```
+
+```
+Ausgabe ohne Syntaxhervorhebung
+```
