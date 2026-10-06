@@ -38,6 +38,17 @@ int x = 4711;
 4711
 ```
 
+## Rohdaten und Rahmen
+
+```{.raw}
+Station;Jahr;Niederschlag
+Bochum;2024;1012.3
+```
+
+[]{.down90}
+
+[Text mit Rahmen]{.framed}
+
 ## Spalten
 
 ::: {.columns}
